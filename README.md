@@ -2,6 +2,8 @@
 AIM:
 
 1.1:Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+<img width="366" alt="image" src="https://github.com/Aryan0823/MAD_Practical-1_21012011169/assets/90816415/54399004-eacf-4cb0-83b9-fde57b2df66a">
+
 
 1.2:Type conversion: Integer to Double, String to Integer, String to Double.
 
