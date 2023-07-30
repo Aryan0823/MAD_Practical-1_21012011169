@@ -27,11 +27,11 @@
     }
 
     fun main(){
-        println("Aryan_21012011169")
+
         val rows = 3
         val columns = 2
-        val firstMatrix = arrayOf(intArrayOf(6, 3), intArrayOf(9,0), intArrayOf(5, 4))
-        val secondMatrix = arrayOf(intArrayOf(2, 3), intArrayOf(-9, 0), intArrayOf(0, 4))
+        val firstMatrix = arrayOf(intArrayOf(1,2), intArrayOf(3,4), intArrayOf(5,6))
+        val secondMatrix = arrayOf(intArrayOf(7,8), intArrayOf(9,0), intArrayOf(5,4))
 
         println("Matrix1: (3 * 2 Matrix): ")
         for (row in firstMatrix) {
@@ -83,8 +83,8 @@
         val c1 = 3
         val r2 = 3
         val c2 = 2
-        val firstMatrixx = arrayOf(intArrayOf(3, -2, 5), intArrayOf(3, 0, 4))
-        val secondMatrixx = arrayOf(intArrayOf(2, 3), intArrayOf(-9, 0), intArrayOf(0, 4))
+        val firstMatrixx = arrayOf(intArrayOf(1,2,3), intArrayOf(4,5,6))
+        val secondMatrixx = arrayOf(intArrayOf(7,8), intArrayOf(9,0), intArrayOf(5,4))
 
         val product = multiplyMatrices(firstMatrixx,
                 secondMatrixx,

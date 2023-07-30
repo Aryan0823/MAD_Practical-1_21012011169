@@ -1,5 +1,5 @@
 fun main() {
-    println("Aryan_21012011169")
+
     print("Enter a number you want it's factorial: ")
     val n = readLine()!!.toInt()
     println("Factorial using Recursion " + recursionFact(n))

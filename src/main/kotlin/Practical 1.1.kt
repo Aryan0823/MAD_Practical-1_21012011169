@@ -8,7 +8,7 @@ fun main(){
     var f:Char='A'
     var g:Boolean = true
     var h:Byte = 101
-    println("Aryan_21012011169")
+
     println("Integer : "+"$a")
     println("Float   : "+"$b")
     println("String  : "+"$c")

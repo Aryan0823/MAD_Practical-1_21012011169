@@ -1,6 +1,4 @@
 fun main(){
-//    println("Hello Word")
-    println("Aryan_21012011169")
     var int =30
     println("Integer value = "+int)
     val double = int.toDouble()

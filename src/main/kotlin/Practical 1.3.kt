@@ -1,6 +1,5 @@
 fun main(){
-//    println("Hello Word")
-    println("Aryan_21012011169")
+
     print("Student Enrollment No.   : ")
     val student_enrollment = readLine()!!
     print("Student Name             : ")

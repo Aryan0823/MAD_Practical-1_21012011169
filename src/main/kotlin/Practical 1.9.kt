@@ -1,5 +1,5 @@
 fun main() {
-    println("Aryan_21012011169")
+
 
         var array = Array<Int>(5){0}
         var x:Int = 0

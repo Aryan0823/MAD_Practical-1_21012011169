@@ -1,5 +1,4 @@
 fun main () {
-    println("Aryan_21012011169")
     fun add(vararg x: Int) {
         var add: Int = x[0]
         for (i in x[1]..x.size) {
@@ -49,7 +48,7 @@ fun main () {
         println("divison of $y is $div")
     }
     add(1, 2, 3, 4, 5, 6)
-    sub(30, 1, 4, 5)
-    mul(5, 2)
-    div(20, 2)
+    sub(5, 1, 9, 3)
+    mul(8, 4)
+    div(30, 2)
 }

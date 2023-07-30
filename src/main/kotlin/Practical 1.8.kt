@@ -1,5 +1,4 @@
 fun main() {
-
     println("Array-1 by using arrayOf() Method : ")
     val a1 = arrayOf(56, 40, 60, 30, 10)
     println(a1.contentToString())
